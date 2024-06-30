@@ -51,7 +51,7 @@ src
 ├───index.tsx
 ├───react-app-env.d.ts
 ├───reportWebVitals.ts
-
+```
 ## 🏁 Iniciando o Projeto
 
 Para executar o projeto localmente, siga os passos abaixo:
